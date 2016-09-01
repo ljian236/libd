@@ -14,7 +14,7 @@ Second, it contains a library list that we have found in our research.
 Third, it contains the experimental results in our evaluation.   
 
 ### File list:  
-./groundtruth/*: the groundtruth libraries, LibD detection results, and LibRader detection results for the 1,000 sample apps in Section IV-C.  
-./liblist/*: the libraries lists with different thresholds which vary from 10 to 50 in Section IV-B.   
-./multi-package_libs_instances/*: the multi-package library instances evaluated in Section IV-F.  
-./tool/*: a stand-alone version of LibD (version 0.0.1).  
+    ./groundtruth/*: the groundtruth libraries, LibD detection results, and LibRader detection results for the 1,000 sample apps in Section IV-C.  
+    ./liblist/*: the libraries lists with different thresholds which vary from 10 to 50 in Section IV-B.   
+    ./multi-package_libs_instances/*: the multi-package library instances evaluated in Section IV-F.  
+    ./tool/*: a stand-alone version of LibD (version 0.0.1).  
